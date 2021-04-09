@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{3D9E4588-4E7C-0D4B-E723-209A470631AA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "NetworkFailureBug",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
